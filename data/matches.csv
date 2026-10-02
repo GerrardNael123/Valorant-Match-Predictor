@@ -1,0 +1,10 @@
+match_id,map,agent,kills,deaths,assists,score,headshots,bodyshots,legshots,won
+bb2a937b-73b3-4584-8f98-a630448a2af1,Haven,Sova,26,21,14,7495,26,54,1,True
+77ecdf24-65c6-4207-ba35-685eb217e676,Ascent,Sova,13,14,6,4109,8,60,2,True
+a141037d-8f70-4c9f-973e-a3d1598e4753,Summit,Chamber,16,13,0,4524,7,42,2,False
+04585f76-5019-4179-9fd5-e9e505d61839,Lotus,Raze,12,17,7,3651,5,59,9,False
+1f47365d-1257-4bce-a96b-96bb8c9849a6,Split,Breach,21,16,13,6116,12,59,6,True
+37039b5c-b50b-4793-a5f3-3dd4ce9506f7,Haven,Yoru,21,19,6,6246,17,52,3,False
+9df583e6-268a-4e17-b73d-9ab2f78d3da7,Ascent,Omen,15,13,8,4512,5,74,3,True
+fa5850d3-8d1e-42f7-9cac-be1d792f497c,Lotus,Raze,21,17,3,5876,3,85,13,False
+9dd3b734-48b9-488f-b0ea-61b9068a6115,Bind,Omen,18,16,5,5099,14,48,2,True
